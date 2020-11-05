@@ -11,7 +11,7 @@ I love spreadsheets and VBA, but it turns out that it is not enough for my progr
 </p>
 
 <p align="center">
-Currently I am working on building a few applications for my own needs, which I will certainly show on my profile. Here are some of the ideas:
-🔭 <b>Link manager - NET Core MVC </b>- for storing resources in a clean and organized way.
+Currently I am working on building a few applications for my own needs, which I will certainly show on my profile. Here are some of the ideas:<br>
+🔭 <b>Link manager - NET Core MVC </b>- for storing resources in a clean and organized way.<br>
 🔭 <b>Playlist creator - Razor Pages or MVC</b> application which will use API's of popular music services for creating playlists.
 </p>
