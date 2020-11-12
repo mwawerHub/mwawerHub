@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=mwawerHub&color=blue)
 <h2 align="center">Hi 👋, I am Marcin</h1>
 <h3 align="center">Self-taught .NET Developer</h3>
 
